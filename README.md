@@ -32,6 +32,3 @@ Menggunakan pendekatan *LLM-as-a-Judge* dan inferensi bahasa alami untuk menjami
 
 
 
-
-
-**Apakah kamu ingin saya bantu membuat "Score Rubric" khusus untuk evaluasi Prometheus di README-nya?** (Ini biasanya sangat disukai rekruter karena menunjukkan kamu punya standar penilaian yang jelas).
